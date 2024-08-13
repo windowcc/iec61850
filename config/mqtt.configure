@@ -1,0 +1,8 @@
+{
+    "clientId":"iec61850",
+    "address":"127.0.0.1:1883",
+    "username":"",
+    "password":"",
+    "aliveInterval":30,
+    "cleanSession":true
+}

@@ -1,0 +1,6 @@
+{
+    "log_name" : "iec61850.log",
+    "log_ins" : "IEC61850",
+    "log_level" : "INFO",
+    "log_tag" : false
+}
